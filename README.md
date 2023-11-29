@@ -9,6 +9,4 @@
   
 </div>
 
-<div>
-  
-</div>
+![snake gif](https://github.com/pedrohenrique1421/pedrohenrique1421/blob/output/github-contribution-grid-snake.svg)
