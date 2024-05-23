@@ -1,5 +1,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique1421&show_icons=true&theme=github_dark_dimmed&hide=prs&count_private=true)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique1421&layout=compact&theme=github_dark_dimmed)](https://github.com/pedrohenrique1421/github-readme-stats)
 
 <div style="background-color: #fff"><br>
