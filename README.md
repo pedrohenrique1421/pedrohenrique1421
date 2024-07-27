@@ -1,7 +1,14 @@
 # Pedro Henrique <br>Um Dev Full-Stack apaixonado por Back-End
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique1421&show_icons=false&theme=github_dark_dimmed&hide=prs&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique1421&layout=compact&theme=github_dark_dimmed)](https://github.com/pedrohenrique1421/github-readme-stats)
+<div>
+<a href="https://github.com/pedrohenrique1421">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique1421&layout=compact&theme=dark"/>
+<a href="https://git.io/streak-stats"></a>
+<img height="170em" src="https://streak-stats.demolab.com?user=pedrohenrique1421&theme=dark" alt="GitHub Streak" /></a>
+</div>
+
+<br>
+
 ## 🛠 Tecnologias e Ferramentas
 ---
 ### 📜 Linguagens
