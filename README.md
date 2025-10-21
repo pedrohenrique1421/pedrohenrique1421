@@ -1,10 +1,8 @@
 # Pedro Henrique <br>Um Dev Full-Stack apaixonado por Back-End
 ---
-<div>
-<a href="https://github.com/pedrohenrique1421">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique1421&layout=compact&theme=dark"/>
-<a href="https://git.io/streak-stats"></a>
-<img height="170em" src="https://streak-stats.demolab.com?user=pedrohenrique1421&theme=dark" alt="GitHub Streak" /></a>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrohenrique1421&show_icons=true&theme=dark" alt="Your GitHub Stats" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique1421&layout=compact&theme=dark" alt="Top Langs" height="150px"/>
 </div>
 
 <br>
