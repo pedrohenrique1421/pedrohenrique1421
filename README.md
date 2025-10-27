@@ -35,7 +35,7 @@ Utilize de bom senso 😗
 <br>
 ## 🔭 Projetos
 ### Projetos já realizados ou em andamento que marcaram
-- <span><a href="https://www.google.com.br/?hl=pt-BR](https://github.com/pedrohenrique1421/LevantaAeApp">LevantaAe</a>: Um aplicativo de saúde voltado para pré-bariatricos.</span>
-- <span><a href="https://www.google.com.br/?hl=pt-BR](https://github.com/pedrohenrique1421/Meutoken">Meu Token</a>: Um aplicativo que registra a frequência de alunos.</span>
-- <span><a href="https://www.google.com.br/?hl=pt-BR](https://github.com/wilkenio/FourDevsGymApp">Four Devs Gym</a>: Um sistema para academias, que possui aplicações web e app.</span>
+- <span><a href="https://github.com/pedrohenrique1421/LevantaAeApp">LevantaAe</a>: Um aplicativo de saúde voltado para pré-bariatricos.</span>
+- <span><a href="https://github.com/pedrohenrique1421/Meutoken">Meu Token</a>: Um aplicativo que registra a frequência de alunos.</span>
+- <span><a href="https://github.com/wilkenio/FourDevsGymApp">Four Devs Gym</a>: Um sistema para academias, que possui aplicações web e app.</span>
 <br>
